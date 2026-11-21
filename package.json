@@ -1,0 +1,11 @@
+{
+  "name": "web-component-event-lab",
+  "version": "1.0.0",
+  "description": "An interactive browser lab for exploring custom events, bubbling, capture phases, and composed events across Shadow DOM boundaries.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
